@@ -1,1 +1,2 @@
-# Trainer's Source: https://github.com/NotYetHAX/NotYetHAX-Trainer #
+# Trainer's Source #
+https://github.com/NotYetHAX/NotYetHAX-Trainer
